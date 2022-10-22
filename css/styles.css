@@ -793,8 +793,6 @@ ul {
 }
 
 .icon-modal-checkbox {
-  margin-right: 9px;
-
   border: 2px solid var(--dark-logo-color);
   border-radius: 2px;
   cursor: pointer;
